@@ -1,0 +1,4 @@
+deliverable explained
+So for the first one the middle name was missing, it was employee.first_name so i change it to employee.middle_name.
+for the 3rd line it wasn't space between the salary and dollar sign. the second one was "\n" was not next to Department: which is needed to categorize.
+the last one was that null is not needed in the code because there is already "" in place for when a text is not there.
